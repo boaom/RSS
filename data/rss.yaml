@@ -36,32 +36,32 @@ Anime:
   - series: 邪恶与疯狂
     type: 剧集订阅
     url: https://rssbg.vercel.app/imdb/tt15146202
-    regex: .+.1080p.IQ+.+
+    regex: .+.1080p.IQ.+
     path: downloads/剧集/连载中/邪恶与疯狂
   - series: 雪降花
     type: 剧集订阅
     url: https://rssbg.vercel.app/imdb/tt13304700
-    regex: .+.1080p.NF+.+
+    regex: .+.1080p.NF.+
     path: downloads/剧集/连载中/雪降花
   - series: 不可杀
     type: 剧集订阅
     url: https://rssbg.vercel.app/imdb/tt14691616
-    regex: .+.1080p.NF+.+
+    regex: .+.1080p.NF.+
     path: downloads/剧集/连载中/不可杀
   - series: 摩根·弗里曼的大逃亡 第一季
     type: 剧集订阅
     url: https://rssbg.vercel.app/imdb/tt13329976
-    regex: .+.1080p.HULU+.+
+    regex: .+.1080p.HULU.+
     path: downloads/剧集/连载中/摩根·弗里曼的大逃亡 第一季
   - series: 那年，我们的夏天
     type: 剧集订阅
     url: https://rssbg.vercel.app/imdb/tt15026724
-    regex: .+.1080p.NF+.+
+    regex: .+.1080p.NF.+
     path: downloads/剧集/连载中/那年，我们的夏天
   - series: 学校2021
     type: 剧集订阅
     url: https://rssbg.vercel.app/imdb/tt15140382
-    regex: .+.1080p+.+
+    regex: .+.1080p.+
     path: downloads/剧集/连载中/学校2021
   - series: 苍穹浩瀚 第六季
     type: 剧集订阅
@@ -71,5 +71,5 @@ Anime:
   - series: 1883
     type: 剧集订阅
     url: https://rssbg.vercel.app/imdb/tt13991232?category=TV_EPISODES_HD
-    regex: .+.1080p.AMZN+.+
+    regex: .+.1080p.AMZN.+
     path: downloads/剧集/连载中/1883
