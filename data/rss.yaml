@@ -65,6 +65,6 @@ Anime:
     path: downloads/剧集/连载中/学校2021
   - series: 苍穹浩瀚 第六季
     type: 剧集订阅
-    url: https://rssbg.vercel.app/search/The.Expanse.S06
-    regex: .+.1080p.AMZN+.+
+    url: https://rssbg.vercel.app/imdb/tt3230854?category=TV_EPISODES_HD
+    regex: .+.S06+.+.1080p.AMZN+.+
     path: downloads/剧集/连载中/苍穹浩瀚 第六季
