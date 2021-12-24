@@ -70,6 +70,6 @@ Anime:
     path: downloads/剧集/连载中/苍穹浩瀚 第六季
   - series: 1883
     type: 剧集订阅
-    url: https://rssbg.vercel.app/imdb/tt3230854?category=TV_EPISODES_HD
+    url: https://rssbg.vercel.app/imdb/tt13991232
     regex: 1883.S01E.+1080p.AMZN.+
     path: downloads/剧集/连载中/1883
