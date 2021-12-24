@@ -58,7 +58,6 @@ Anime:
     url: https://rssbg.vercel.app/imdb/tt15026724
     regex: .+.1080p.NF.+
     path: downloads/剧集/连载中/那年，我们的夏天
-
   - series: 苍穹浩瀚 第六季
     type: 剧集订阅
     url: https://rssbg.vercel.app/imdb/tt3230854?category=TV_EPISODES_HD
