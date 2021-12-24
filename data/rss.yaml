@@ -66,5 +66,5 @@ Anime:
   - series: 忧郁症
     type: 剧集订阅
     url: https://rssbg.vercel.app/imdb/tt15146242
-    regex: .+.1080p+.+
+    regex: Melancholia+.+.1080p+.+
     path: downloads/剧集/连载中/忧郁症
