@@ -40,7 +40,8 @@ Anime:
     path: downloads/番剧/连载中/古见同学有交流障碍症
   - series: 衣袖红镶边
     type: 剧集订阅
-    url: https://rssbg.vercel.app/search/The.Red.Sleeve.S01.1080?category=TV_EPISODES_HD
+    url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/The.Red.Sleeve.S01.1080?category=TV_EPISODES_HD
+    regex: .+.1080p+.
     path: downloads/剧集/连载中/衣袖红镶边
   - series: 不可杀
     type: 剧集订阅
