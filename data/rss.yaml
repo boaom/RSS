@@ -46,7 +46,7 @@ Anime:
   - series: 不可杀
     type: 剧集订阅
     url: https://rssbg.vercel.app/imdb/tt14691616
-    regex: .+.1080p.NF.+
+    regex: .+.S01E.+.1080p.DSNP.+
     path: downloads/剧集/连载中/不可杀
   - series: 摩根·弗里曼的大逃亡 第一季
     type: 剧集订阅
