@@ -2,9 +2,76 @@ Template: |
   🌟 更新剧集：*{{ title }}*
   🎯 直达链接：[点击此处]({{ link }})
   \#{{ type }}  \#{{ series }}
+Anime:
+  - series: 鬼灭之刃 游郭篇
+    type: 动漫订阅
+    url: https://mikanani.me/RSS/Bangumi?bangumiId=2604&subgroupid=562
+    regex: .+ [0-9]+ .+1080p.+
+    path: downloads/番剧/连载中/鬼灭之刃-游郭篇
+  - series: 国王排名
+    type: 动漫订阅
+    url: https://mikanani.me/RSS/Bangumi?bangumiId=2578&subgroupid=370
+    regex: .+ [0-9]+ .+1080p.+
+    path: downloads/番剧/连载中/国王排名
+  - series: 宿命回响
+    type: 动漫订阅
+    url: https://mikanani.me/RSS/Bangumi?bangumiId=2550&subgroupid=559
+    regex: .+1080P.+
+    path: downloads/番剧/连载中/宿命回响
+  - series: 无职转生 ～在异世界认真地活下去～ 第二季
+    type: 动漫订阅
+    url: https://mikanani.me/RSS/Bangumi?bangumiId=2549&subgroupid=552
+    regex: .+ [0-9]+ .+1080p.+
+    path: downloads/番剧/连载中/无职转生 ～在异世界认真地活下去～ 第二季
+  - series: 平家物语
+    type: 动漫订阅
+    url: https://mikanani.me/RSS/Bangumi?bangumiId=2543&subgroupid=370
+    regex: .+ [0-9]+ .+1080p.+
+    path: downloads/番剧/连载中/平家物语
+  - series: 古见同学有交流障碍症
+    type: 动漫订阅
+    url: https://mikanani.me/RSS/Bangumi?bangumiId=2564&subgroupid=382
+    regex: .+.1080p+.
+    path: downloads/番剧/连载中/古见同学有交流障碍症
+
 TV:
   - series: 衣袖红镶边
     type: 剧集订阅
     url: https://rssbg.vercel.app/search/The.Red.Sleeve.S01
     regex: .+1080p.+
     path: downloads/剧集/连载中/衣袖红镶边
+  - series: 不可杀
+    type: 剧集订阅
+    url: https://rssbg.vercel.app/tmdb/137520
+    regex: .+.1080p+.
+    path: downloads/剧集/连载中/不可杀
+  - series: 邪恶与疯狂
+    type: 剧集订阅
+    url: https://rssbg.vercel.app/imdb/tt15146202
+    regex: Bad.and.Crazy.+.1080p.IQ.+
+    path: downloads/剧集/连载中/邪恶与疯狂
+  - series: 雪降花
+    type: 剧集订阅
+    url: https://rssbg.vercel.app/tmdb/108291
+    regex: Snowdrop.+.1080p.DSNP.+
+    path: downloads/剧集/连载中/雪降花
+  - series: 摩根·弗里曼的大逃亡 第一季
+    type: 剧集订阅
+    url: https://rssbg.vercel.app/imdb/tt13329976
+    regex: .+.1080p.HULU.+
+    path: downloads/剧集/连载中/摩根·弗里曼的大逃亡 第一季
+  - series: 那年，我们的夏天
+    type: 剧集订阅
+    url: https://rssbg.vercel.app/imdb/tt15026724
+    regex: .+.1080p.NF.+
+    path: downloads/剧集/连载中/那年，我们的夏天
+  - series: 苍穹浩瀚 第六季
+    type: 剧集订阅
+    url: https://rssbg.vercel.app/imdb/tt3230854?category=TV_EPISODES_HD
+    regex: .+.S06E.+.1080p.AMZN.+
+    path: downloads/剧集/连载中/苍穹浩瀚 第六季
+  - series: 1883
+    type: 剧集订阅
+    url: https://rssbg.vercel.app/imdb/tt13991232?category=TV_EPISODES_HD
+    regex: .+.S01E.+.1080p.AMZN.+
+    path: downloads/剧集/连载中/1883
