@@ -3,8 +3,8 @@ Template: |
   🎯 直达链接：[点击此处]({{ link }})
   \#{{ type }}  \#{{ series }}
 Anime:
-  - series: 不可杀
+  - series: 衣袖红镶边
     type: 剧集订阅
-    url: http://23.234.213.184:9117/api/v2.0/indexers/rarbg/results/torznab/api?apikey=edynpl7sfue7qvxjrxisvl7vg4444b6s&t=search&cat=&q=Bulgasal.Immortal.Souls
+    url: http://23.234.213.184:9117/api/v2.0/indexers/rarbg/results/torznab/api?apikey=edynpl7sfue7qvxjrxisvl7vg4444b6s&t=search&cat=&q=The.Red.Sleeve
     regex: .+1080p.+
-    path: downloads/番剧/连载中/不可杀
+    path: downloads/番剧/连载中/衣袖红镶边
