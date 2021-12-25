@@ -16,7 +16,7 @@ Anime:
   - series: 宿命回响
     type: 动漫订阅
     url: https://mikanani.me/RSS/Bangumi?bangumiId=2550&subgroupid=559
-    regex: .+ .+1080p.+
+    regex: .+1080P.+
     path: downloads/番剧/连载中/宿命回响
   - series: 无职转生 ～在异世界认真地活下去～ 第二季
     type: 动漫订阅
@@ -31,12 +31,12 @@ Anime:
   - series: 古见同学有交流障碍症
     type: 动漫订阅
     url: https://mikanani.me/RSS/Bangumi?bangumiId=2564&subgroupid=382
-    regex: .+ .+1080p.+
+    regex: .+1080p.+
     path: downloads/番剧/连载中/古见同学有交流障碍症
   - series: 不可杀
     type: 剧集订阅
     url: https://rssbg.vercel.app/tmdb/137520
-    regex: .+.1080p.+
+    regex: .+1080p.+
     path: downloads/剧集/连载中/不可杀
   - series: 邪恶与疯狂
     type: 剧集订阅
@@ -46,7 +46,7 @@ Anime:
   - series: 雪降花
     type: 剧集订阅
     url: https://rssbg.vercel.app/tmdb/108291
-    regex: .+.1080p.+
+    regex: .+1080p.+
     path: downloads/剧集/连载中/雪降花
   - series: 摩根·弗里曼的大逃亡 第一季
     type: 剧集订阅
