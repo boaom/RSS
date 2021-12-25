@@ -7,4 +7,4 @@ Anime:
     type: 剧集订阅
     url: https://rssbg.vercel.app/search/The.Red.Sleeve.S01
     regex: .+1080p.+
-    path: downloads/番剧/连载中/衣袖红镶边
+    path: downloads/剧集/连载中/衣袖红镶边
