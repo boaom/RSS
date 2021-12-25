@@ -36,7 +36,7 @@ Anime:
   - series: 不可杀
     type: 剧集订阅
     url: https://rssbg.vercel.app/tmdb/137520
-    regex: .+1080p.+
+    regex: .+.1080p.+
     path: downloads/剧集/连载中/不可杀
   - series: 邪恶与疯狂
     type: 剧集订阅
@@ -46,7 +46,7 @@ Anime:
   - series: 雪降花
     type: 剧集订阅
     url: https://rssbg.vercel.app/tmdb/108291
-    regex: .+1080p.+
+    regex: .+.1080p.+
     path: downloads/剧集/连载中/雪降花
   - series: 摩根·弗里曼的大逃亡 第一季
     type: 剧集订阅
