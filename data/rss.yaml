@@ -31,7 +31,7 @@ Anime:
   - series: 古见同学有交流障碍症
     type: 动漫订阅
     url: https://mikanani.me/RSS/Bangumi?bangumiId=2564&subgroupid=382
-    regex: .+[0-9]+.+1080p.+[简日双语].+
+    regex: .+ [0-9]+ .+1080p.+
     path: downloads/番剧/连载中/古见同学有交流障碍症
   - series: 不可杀
     type: 剧集订阅
