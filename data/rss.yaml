@@ -33,6 +33,13 @@ Anime:
     url: https://mikanani.me/RSS/Bangumi?bangumiId=2564&subgroupid=382
     regex: .+.1080p+.
     path: downloads/番剧/连载中/古见同学有交流障碍症
+
+TV:
+  - series: 衣袖红镶边
+    type: 剧集订阅
+    url: https://rssbg.vercel.app/search/The.Red.Sleeve.S01
+    regex: .+1080p.+
+    path: downloads/剧集/连载中/衣袖红镶边
   - series: 不可杀
     type: 剧集订阅
     url: https://rssbg.vercel.app/tmdb/137520
@@ -41,12 +48,12 @@ Anime:
   - series: 邪恶与疯狂
     type: 剧集订阅
     url: https://rssbg.vercel.app/imdb/tt15146202
-    regex: Bad.and.Crazy.+.1080p.IQ.+
+    regex: .+.1080p.IQ.+
     path: downloads/剧集/连载中/邪恶与疯狂
   - series: 雪降花
     type: 剧集订阅
     url: https://rssbg.vercel.app/tmdb/108291
-    regex: Snowdrop.+.1080p.DSNP.+
+    regex: .+.1080p.DSNP.+
     path: downloads/剧集/连载中/雪降花
   - series: 摩根·弗里曼的大逃亡 第一季
     type: 剧集订阅
