@@ -2,7 +2,7 @@ Template: |
   🌟 更新剧集：*{{ title }}*
   🎯 直达链接：[点击此处]({{ link }})
   \#{{ type }}  \#{{ series }}
-Anime:
+TV:
   - series: 衣袖红镶边
     type: 剧集订阅
     url: https://rssbg.vercel.app/search/The.Red.Sleeve.S01
