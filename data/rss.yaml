@@ -8,6 +8,11 @@ Anime:
     url: https://mikanani.me/RSS/Bangumi?bangumiId=2604&subgroupid=562
     regex: .+ [0-9]+ .+1080p.+
     path: downloads/番剧/连载中/鬼灭之刃-游郭篇
+  - series: 关于前辈很烦人的事
+    type: 动漫订阅
+    url: https://mikanani.me/RSS/Bangumi?bangumiId=2588&subgroupid=562
+    regex: .+ [0-9]+ .+1080p.+
+    path: downloads/番剧/连载中/关于前辈很烦人的事
   - series: 国王排名
     type: 动漫订阅
     url: https://mikanani.me/RSS/Bangumi?bangumiId=2578&subgroupid=370
