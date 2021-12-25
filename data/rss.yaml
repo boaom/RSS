@@ -31,12 +31,12 @@ Anime:
   - series: 古见同学有交流障碍症
     type: 动漫订阅
     url: https://mikanani.me/RSS/Bangumi?bangumiId=2564&subgroupid=382
-    regex: .+1080p.+
+    regex: .+.1080p+.
     path: downloads/番剧/连载中/古见同学有交流障碍症
   - series: 不可杀
     type: 剧集订阅
     url: https://rssbg.vercel.app/tmdb/137520
-    regex: Bulgasal.Immortal.Souls.+.1080p.+
+    regex: .+.1080p+.
     path: downloads/剧集/连载中/不可杀
   - series: 邪恶与疯狂
     type: 剧集订阅
