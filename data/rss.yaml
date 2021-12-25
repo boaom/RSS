@@ -8,11 +8,6 @@ Anime:
     url: https://mikanani.me/RSS/Bangumi?bangumiId=2604&subgroupid=562
     regex: .+ [0-9]+ .+1080p.+
     path: downloads/番剧/连载中/鬼灭之刃-游郭篇
-  - series: 关于前辈很烦人的事
-    type: 动漫订阅
-    url: https://mikanani.me/RSS/Bangumi?bangumiId=2588&subgroupid=562
-    regex: .+ [0-9]+ .+1080p.+
-    path: downloads/番剧/连载中/关于前辈很烦人的事
   - series: 国王排名
     type: 动漫订阅
     url: https://mikanani.me/RSS/Bangumi?bangumiId=2578&subgroupid=370
@@ -38,16 +33,6 @@ Anime:
     url: https://mikanani.me/RSS/Bangumi?bangumiId=2564&subgroupid=382
     regex: .+.1080p+.
     path: downloads/番剧/连载中/古见同学有交流障碍症
-  - series: 衣袖红镶边
-    type: 剧集订阅
-    url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/The.Red.Sleeve.S01.1080?category=TV_EPISODES_HD
-    regex: .+.1080p+.
-    path: downloads/剧集/连载中/衣袖红镶边
-  - series: 不可杀
-    type: 剧集订阅
-    url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt14691616
-    regex: .+.1080p+.
-    path: downloads/剧集/连载中/不可杀
   - series: 邪恶与疯狂
     type: 剧集订阅
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt15146202
@@ -78,3 +63,13 @@ Anime:
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt13991232?category=TV_EPISODES_HD
     regex: .+.S01E.+.1080p.AMZN.+
     path: downloads/剧集/连载中/1883
+  - series: 衣袖红镶边
+    type: 剧集订阅
+    url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/The.Red.Sleeve.S01.1080?category=TV_EPISODES_HD
+    regex: .+.1080p+.
+    path: downloads/剧集/连载中/衣袖红镶边
+  - series: 不可杀
+    type: 剧集订阅
+    url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt14691616
+    regex: .+.1080p+.
+    path: downloads/剧集/连载中/不可杀
