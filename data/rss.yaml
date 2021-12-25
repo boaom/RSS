@@ -39,7 +39,6 @@ Anime:
     regex: .+.1080p+.
     path: downloads/番剧/连载中/古见同学有交流障碍症
 
-TV:
   - series: 衣袖红镶边
     type: 剧集订阅
     url: https://rssbg.vercel.app/search/The.Red.Sleeve.S01
