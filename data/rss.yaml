@@ -72,12 +72,12 @@ Anime:
     type: 剧集订阅
     url: https://rarbg-git-master-apocalypsor.vercel.app/search/he.Red.Sleeve?category=TV_EPISODES_HD
     regex: The.Red.Sleeve.[0-9a-zA-Z.]*(?:1080p.WEBRip.AAC2.0.x264-AppleTor)
-    path: downloads/连载中/衣袖红镶边
+    path: downloads/剧集/衣袖红镶边
   - series: 不可杀
     type: 剧集订阅
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt14691616
     regex: Bulgasal.Immortal.Souls.[0-9a-zA-Z.]*(?:1080p.NF.WEBRip.DDP2.0.x264-REVOLT)
-    path: downloads/连载中/不可杀
+    path: downloads/剧集/不可杀
   - series: 嗜血法医：杀魔新生 第一季
     type: 剧集订阅
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt14164730
