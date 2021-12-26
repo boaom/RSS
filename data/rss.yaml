@@ -7,79 +7,79 @@ Anime:
     type: 动漫订阅
     url: https://mikanani.me/RSS/Bangumi?bangumiId=2604&subgroupid=562
     regex: .+ [0-9]+ .+1080p.+
-    path: downloads/番剧/连载中/鬼灭之刃-游郭篇
+    path: downloads/番剧/连载中/鬼灭之刃-游郭篇/
   - series: 国王排名
     type: 动漫订阅
     url: https://mikanani.me/RSS/Bangumi?bangumiId=2578&subgroupid=370
     regex: .+ [0-9]+ .+1080p.+
-    path: downloads/番剧/连载中/国王排名
+    path: downloads/番剧/连载中/国王排名/
   - series: 宿命回响
     type: 动漫订阅
     url: https://mikanani.me/RSS/Bangumi?bangumiId=2550&subgroupid=559
     regex: .+1080P.+
-    path: downloads/番剧/连载中/宿命回响
+    path: downloads/番剧/连载中/宿命回响/
   - series: 无职转生 ～在异世界认真地活下去～ 第二季
     type: 动漫订阅
     url: https://mikanani.me/RSS/Bangumi?bangumiId=2549&subgroupid=552
     regex: .+ [0-9]+ .+1080p.+
-    path: downloads/番剧/连载中/无职转生 ～在异世界认真地活下去～ 第二季
+    path: downloads/番剧/连载中/无职转生 ～在异世界认真地活下去～ 第二季/
   - series: 平家物语
     type: 动漫订阅
     url: https://mikanani.me/RSS/Bangumi?bangumiId=2543&subgroupid=370
     regex: .+ [0-9]+ .+1080p.+
-    path: downloads/番剧/连载中/平家物语
+    path: downloads/番剧/连载中/平家物语/
   - series: 古见同学有交流障碍症
     type: 动漫订阅
     url: https://mikanani.me/RSS/Bangumi?bangumiId=2564&subgroupid=382
     regex: .+ [0-9]+ .+1080p.+
-    path: downloads/番剧/连载中/古见同学有交流障碍症
+    path: downloads/番剧/连载中/古见同学有交流障碍症/
   - series: 关于前辈很烦人的事
     type: 动漫订阅
     url: https://mikanani.me/RSS/Bangumi?bangumiId=2588&subgroupid=562
     regex: .+ [0-9]+ .+1080p.+ .+MKV.+
-    path: downloads/番剧/连载中/关于前辈很烦人的事
+    path: downloads/番剧/连载中/关于前辈很烦人的事/
   - series: 邪恶与疯狂
     type: 剧集订阅
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt15146202
     regex: Bad.and.Crazy.[0-9a-zA-Z.]*(?:1080p.WEBRip.AAC2.0.x264-AppleTor)
-    path: downloads/剧集/连载中/邪恶与疯狂
+    path: downloads/剧集/连载中/邪恶与疯狂/
   - series: 雪降花
     type: 剧集订阅
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt13304700
     regex: Snowdrop.[0-9a-zA-Z.]*(?:1080p.DSNP.WEBRip.AAC2.0.x264-NYH)
-    path: downloads/剧集/连载中/雪降花
+    path: downloads/剧集/连载中/雪降花/
   - series: 摩根·弗里曼的大逃亡 第一季
     type: 剧集订阅
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt13329976
     regex: Great.Escapes.with.Morgan.Freeman.[0-9a-zA-Z.]*(?:1080p.HULU.WEBRip.AAC2.0.H264-Cinefeel)
-    path: downloads/剧集/连载中/摩根·弗里曼的大逃亡 第一季
+    path: downloads/剧集/连载中/摩根·弗里曼的大逃亡 第一季/
   - series: 那年，我们的夏天
     type: 剧集订阅
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt15026724
     regex: Our.Beloved.Summer.[0-9a-zA-Z.]*(?:1080p.NF.WEBRip.DDP2.0.x264-Tartarus)
-    path: downloads/剧集/连载中/那年，我们的夏天
+    path: downloads/剧集/连载中/那年，我们的夏天/
   - series: 苍穹浩瀚 第六季
     type: 剧集订阅
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt3230854?category=TV_EPISODES_HD
     regex: The.Expanse.[0-9a-zA-Z.]*(?:1080p.AMZN.WEBRip.DDP5.1.x264-NTb)
-    path: downloads/剧集/连载中/苍穹浩瀚 第六季
+    path: downloads/剧集/连载中/苍穹浩瀚 第六季/
   - series: 1883
     type: 剧集订阅
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt13991232?category=TV_EPISODES_HD
     regex: 1883.[0-9a-zA-Z.]*(?:1080p.AMZN.WEBRip.DDP5.1.x264-NOSiViD)
-    path: downloads/剧集/连载中/1883
+    path: downloads/剧集/连载中/1883/
   - series: 衣袖红镶边
     type: 剧集订阅
     url: https://rarbg-git-master-apocalypsor.vercel.app/search/he.Red.Sleeve?category=TV_EPISODES_HD
     regex: The.Red.Sleeve.[0-9a-zA-Z.]*(?:1080p.WEBRip.AAC2.0.x264-AppleTor)
-    path: downloads/剧集/连载中/衣袖红镶边
+    path: downloads/剧集/连载中/衣袖红镶边/
   - series: 不可杀
     type: 剧集订阅
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt14691616
     regex: Bulgasal.Immortal.Souls.[0-9a-zA-Z.]*(?:1080p.NF.WEBRip.DDP2.0.x264-REVOLT)
-    path: downloads/剧集/连载中/不可杀
+    path: downloads/剧集/连载中/不可杀/
   - series: 嗜血法医：杀魔新生 第一季
     type: 剧集订阅
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt14164730
     regex: Dexter.New.Blood.[0-9a-zA-Z.]*(?:1080p.AMZN.WEBRip.DDP5.1.x264-NTb)
-    path: downloads/剧集/连载中/嗜血法医：杀魔新生 第一季
+    path: downloads/剧集/连载中/嗜血法医：杀魔新生 第一季/
