@@ -83,3 +83,8 @@ Anime:
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt14164730
     regex: Dexter.New.Blood.[0-9a-zA-Z.]*(?:1080p.AMZN.WEBRip.DDP5.1.x264-NTb)
     path: downloads/剧集/嗜血法医：杀魔新生 第一季
+  - series: 金斯敦市长
+    type: 剧集订阅
+    url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt11712058
+    regex: Mayor.of.Kingstown.[0-9a-zA-Z.]*(?:1080p.AMZN.WEBRip.DDP5.1.x264-TOMMY)
+    path: downloads/剧集/金斯敦市长
