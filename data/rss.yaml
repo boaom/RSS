@@ -28,6 +28,16 @@ Anime:
     url: https://mikanani.me/RSS/Bangumi?bangumiId=2543&subgroupid=370
     regex: .+ [0-9]+ .+1080p.+
     path: downloads/番剧/连载中/平家物语
+  - series: 古见同学有交流障碍症
+    type: 动漫订阅
+    url: https://mikanani.me/RSS/Bangumi?bangumiId=2564&subgroupid=382
+    regex: .+ [0-9]+ .+1080p.+
+    path: downloads/番剧/连载中/古见同学有交流障碍症
+  - series: 关于前辈很烦人的事
+    type: 动漫订阅
+    url: https://mikanani.me/RSS/Bangumi?bangumiId=2588&subgroupid=562
+    regex: .+ [0-9]+ .+1080p.+ .+MKV.+
+    path: downloads/番剧/连载中/关于前辈很烦人的事
   - series: 邪恶与疯狂
     type: 剧集订阅
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt15146202
