@@ -68,3 +68,8 @@ Anime:
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt14691616
     regex: Bulgasal.Immortal.Souls.[0-9a-zA-Z.]*(?:1080p.NF.WEBRip.DDP2.0.x264-REVOLT)
     path: downloads/剧集/连载中/不可杀
+  - series: 嗜血法医：杀魔新生 第一季
+    type: 剧集订阅
+    url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt14164730
+    regex: Dexter.New.Blood.[0-9a-zA-Z.]*(?:1080p.AMZN.WEBRip.DDP5.1.x264-NTb)
+    path: downloads/剧集/连载中/嗜血法医：杀魔新生 第一季
