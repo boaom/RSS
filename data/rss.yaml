@@ -31,7 +31,7 @@ Anime:
   - series: 邪恶与疯狂
     type: 剧集订阅
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt15146202
-    regex: Bad.and.Crazy.[0-9a-zA-Z.]*(?:1080p.IQ.WEBRip.AAC2.0.x264-iTs)
+    regex: Bad.and.Crazy.[0-9a-zA-Z.]*(?:1080p.WEBRip.AAC2.0.x264-AppleTor)
     path: downloads/剧集/连载中/邪恶与疯狂
   - series: 雪降花
     type: 剧集订阅
