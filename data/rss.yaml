@@ -88,3 +88,8 @@ Anime:
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt11712058
     regex: Mayor.of.Kingstown.[0-9a-zA-Z.]*(?:1080p.AMZN.WEBRip.DDP5.1.x264-TOMMY)
     path: downloads/剧集/金斯敦市长
+  - series: 黄石 第四季
+    type: 剧集订阅
+    url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt4236770
+    regex: Yellowstone.[0-9a-zA-Z.]*(?:1080p.AMZN.WEBRip.AAC5.1.x264-NTb)
+    path: downloads/剧集/黄石 第四季
