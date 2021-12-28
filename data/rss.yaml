@@ -66,7 +66,7 @@ Anime:
   - series: 1883
     type: 剧集订阅
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt13991232?category=TV_EPISODES_HD
-    regex: 1883.[0-9a-zA-Z.]*(?:1080p.AMZN.WEBRip.DDP5.1.x264-NOSiViD)
+    regex: 1883.[0-9a-zA-Z.]*(?:1080p.AMZN.WEBRip.DDP5.1.x264-NOSiViD|1080p.AMZN.WEBRip.DDP5.1.x264-NTb)
     path: downloads/剧集/1883
   - series: 衣袖红镶边
     type: 剧集订阅
