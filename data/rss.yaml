@@ -56,7 +56,7 @@ Anime:
   - series: 那年，我们的夏天
     type: 剧集订阅
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt15026724
-    regex: Our.Beloved.Summer.[0-9a-zA-Z.]*(?:1080p.NF.WEBRip.DDP2.0.x264-Tartarus)
+    regex: Our.Beloved.Summer.[0-9a-zA-Z.]*(?:1080p.NF.WEBRip.DDP2.0.x264-Tartarus|1080p.NF.WEBRip.DDP2.0.x264-Taengoo)
     path: downloads/剧集/那年，我们的夏天
   - series: 苍穹浩瀚 第六季
     type: 剧集订阅
