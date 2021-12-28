@@ -93,3 +93,8 @@ Anime:
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt4236770
     regex: Yellowstone.[0-9a-zA-Z.]*(?:1080p.AMZN.WEBRip.AAC5.1.x264-NTb)
     path: downloads/剧集/黄石 第四季
+  - series: 园艺杀手 第一季
+    type: 剧集订阅
+    url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt11471892
+    regex: Landscapers.[0-9a-zA-Z.]*(?:1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD)
+    path: downloads/剧集/园艺杀手 第一季
