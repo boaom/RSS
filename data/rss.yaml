@@ -98,3 +98,8 @@ Anime:
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt11471892
     regex: Landscapers.[0-9a-zA-Z.]*(?:1080p.HMAX.WEBRip.DD5.1.x264-NOSiViD)
     path: downloads/剧集/园艺杀手 第一季
+  - series: 波巴·费特之书
+    type: 剧集订阅
+    url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt13668894
+    regex: The.Book.of.Boba.Fett.[0-9a-zA-Z.]*(?:1080p.DSNP.WEBRip.DDP5.1.x264-NOSiViD)
+    path: downloads/剧集/波巴·费特之书
