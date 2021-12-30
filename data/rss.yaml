@@ -106,5 +106,10 @@ Anime:
   - series: 只一个人
     type: 剧集订阅
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt14731978
-    regex: The.Book.of.Boba.Fett.[0-9a-zA-Z.]*(?:1080p.DSNP.WEBRip.DDP5.1.x264-NOSiViD)
+    regex: The.One.and.Only.[0-9a-zA-Z.]*(?:1080p.WEBRip.AAC2.0.x264-AppleTor)
     path: downloads/剧集/只一个人
+  - series: 花开时想月
+    type: 剧集订阅
+    url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt14609502
+    regex: Moonshine.[0-9a-zA-Z.]*(?:1080p.WEBRip.AAC2.0.x264-AppleTor)
+    path: downloads/剧集/花开时想月
