@@ -103,3 +103,8 @@ Anime:
     url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt13668894
     regex: The.Book.of.Boba.Fett.[0-9a-zA-Z.]*(?:1080p.DSNP.WEBRip.DDP5.1.x264-NOSiViD)
     path: downloads/剧集/波巴·费特之书
+  - series: 只一个人
+    type: 剧集订阅
+    url: https://rarbg-git-master-apocalypsor.vercel.app/imdb/tt14731978
+    regex: The.Book.of.Boba.Fett.[0-9a-zA-Z.]*(?:1080p.DSNP.WEBRip.DDP5.1.x264-NOSiViD)
+    path: downloads/剧集/只一个人
