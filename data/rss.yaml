@@ -8,6 +8,11 @@ Anime:
     url: https://mikanani.me/RSS/Bangumi?bangumiId=2604&subgroupid=562
     regex: .+ [0-9]+ .+1080p.+
     path: downloads/番剧/鬼灭之刃-游郭篇
+  - series: 魔法科高校的劣等生 追忆篇
+    type: 动漫订阅
+    url: https://mikanani.me/RSS/Bangumi?bangumiId=2653&subgroupid=562
+    regex: .+ [0-9]+ .+1080p.+
+    path: downloads/番剧/魔法科高校的劣等生 追忆篇
   - series: 国王排名
     type: 动漫订阅
     url: https://mikanani.me/RSS/Bangumi?bangumiId=2578&subgroupid=370
