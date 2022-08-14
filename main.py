@@ -13,7 +13,7 @@ def main():
             rss_path = "data/" + rss_path
     else:
         rss_path = "data/rss.yaml"
-        
+
     config_path = "data/config.yaml"
 
     ani = Anime(*getConfigFile(config_path, rss_path))
